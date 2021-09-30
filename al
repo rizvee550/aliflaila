@@ -304,12 +304,19 @@ http://babutv.aliflailabd.com:8989/atnislamictv/index.m3u8
 
 Backup
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dYLwOJA.png" group-title="Backup", Cartoon Network HD+ BDC
+http://jupiter.bdcabletv.com/ENC-18/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Backup", Nick Junior BDC
+http://jupiter.bdcabletv.com/ENC-5/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qQeesU6.png" group-title="Backup", Sony Sab HD
 http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Backup", Star Gold HD
 http://jupiter.bdcabletv.com/ENC-10/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Backup", Star Bharat 
+http://jupiter.bdcabletv.com/ENC-14/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AnkD43r.png" group-title="Backup", UTV Movies
 http://jupiter.bdcabletv.com/ENC-20/video.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Backup", Star Sports 2
-http://jupiter.bdcabletv.com/ENC-4/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Backup", Star Plus
+http://jupiter.bdcabletv.com/StarPlus/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" group-title="Backup", Star World BDC
+http://jupiter.bdcabletv.com/ENC-2/video.m3u8
