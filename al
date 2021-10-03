@@ -302,7 +302,7 @@ Religious
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R9FLtGM/BTV-Live-removebg-preview.png" group-title="Religious",ATN Islamic
 http://babutv.aliflailabd.com:8989/atnislamictv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla", Colors Bangla HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla HD
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 
 
