@@ -106,6 +106,8 @@ Indian Bangla
 https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian Bangla",*Enter 10 Bangla 
 http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla",*Colors Bangla HD
+https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Indian Bangla",Jalsha Movies
 http://babutv.aliflailabd.com:8989/jalsha-movies/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1eCbGa7.png" group-title="Indian Bangla",*Ruposhi Bangla
@@ -301,8 +303,78 @@ Religious
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R9FLtGM/BTV-Live-removebg-preview.png" group-title="Religious",ATN Islamic
 http://babutv.aliflailabd.com:8989/atnislamictv/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Al Aqsa TV" tvg-logo="https://www.terrorism-info.org.il/data/articles/Art_18131/hamas_099_3.jpg" group-title="Religious",Al Aqsa TV
+https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Al Istiqama TV" tvg-logo="https://img.iptvmate.net/5e933b41b3bdf92f6965c700.png" group-title="Religious",Al Istiqama TV
+http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Noor TV UK" tvg-logo="https://www.thenoor.tv/wp-content/uploads/2020/08/Noor-tv-heder-logo-copy-1.png" group-title="Religious",Noor TV UK
+https://ls1.serverdump.com/stream3.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Saudi Quran" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Religious",Saudi Quran
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pMQM7rC.png" group-title="Religious",Saudi Sunnah
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla HD
-https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+Backup
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Backup", Sangeet Bangla
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="Backup", TLC HD Hindi
+http://idvd.multitvsolution.com/idvo/tlchdhindi.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Backup", Star Plus HD
+http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Backup", Sony Max HD 
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gSXkPye.png" group-title="Backup", Bfilx Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Backup", 9X Music
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7rnhie0.png" group-title="Backup", Dhoom Music
+http://103.205.133.48/hls/dhoommusic.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Backup", Sonic Nickeloden
+http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Backup", Nick 
+http://70.39.83.58:8278/nickhindikdin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Backup", Cartoon Network Hindi
+http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Backup", Zee Bangla Cinema
+https://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Backup", Travel XP HD Bangla
+https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="Backup", TLC SD Hindi
+http://idvd.multitvsolution.com/idvo/tlchindi.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="Backup", & Prive HD
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="Backup", AXN
+http://221.120.204.4/AXN-LOCKLE/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="Backup", Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Backup", Colors HD
+http://93.190.139.35:8278/streams/d/Colorhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Backup", Zee TV HD
+http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Backup", Sky Sports Cricket
+http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8?token=rk
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C49YuUd.jpg" group-title="Backup", Sky Sports Football
+http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AndFlix.in" tvg-country="IN" tvg-language="" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Backup",&Flix (720p)
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
+#EXTINF:-1 tvg-id="AndPictures.in" tvg-country="SAS" tvg-language="" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Backup",&Pictures (576p)
+https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
+#EXTINF:-1 tvg-id="AndPriveHD.in" tvg-country="SAS" tvg-language="" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="Backup",&privé HD (720p)
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
+#EXTINF:-1 tvg-id="B4UKadak.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/vwkjtRT.png" group-title="Backup",B4U Kadak (576p)
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1 tvg-id="BoxCinema.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/LGJlmtp.png" group-title="Backup",Box Cinema (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0su/index.m3u8
+#EXTINF:-1 tvg-id="FoxRussia.us" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/992gw0d.png" group-title="Backup",Fox Russia (576p)
+http://188.40.68.167/russia/fox_russia_sd/playlist.m3u8
+#EXTINF:-1 tvg-id="ManoranjanGrand.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/2BSvBGG.png" group-title="Backup",Manoranjan Grand (480p) [Not 24/7]
+http://14.199.164.20:4001/play/a0m2/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://www.kcvnet.in/images/chanellogo/maha_movie_in.png" group-title="Backup",Maha Movie
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Backup",HBO Signature
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNew.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/S3lVg3i.jpg?1" group-title="Bonus Channel",Box Cinema
+https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
