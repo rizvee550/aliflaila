@@ -18,17 +18,14 @@ http://babutv.aliflailabd.com:8989/jamuna-tv/index.m3u8
 http://babutv.aliflailabd.com:8989/news24-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z2QvpTn.png" group-title="News",Somoy 
 http://babutv.aliflailabd.com:8989/somoy-tv/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/6e/d8/116ed80f298c8ee40551e9291a2273f6.png" group-title="News",AL Jajeera
+http://babutv.aliflailabd.com:8989/aljazeera-hd/index.m3u8
 
 Bangladeshi
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangladeshi",Asian TV 
 http://babutv.aliflailabd.com:8989/asiantv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="Bangladeshi",*ATN Music
-https://tempe.jagobd.com:445/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2018/03/ATV-Logo.jpg" group-title="Bangladeshi",*Ananda TV
-https://tempe.jagobd.com:445/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangladeshi",ATN Bangla
 http://babutv.aliflailabd.com:8989/atn-bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Bangladeshi",Bangla TV
@@ -46,8 +43,8 @@ http://babutv.aliflailabd.com:8989/btv-world/index.m3u8
 http://103.106.2.149:13456/btv_ctg.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sanshad tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg " group-title="Bangladeshi",*BTV Sanshad TV
 http://103.106.2.149:13456/sangsad.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/5/58/বিজয়_টিভির_লোগো.png/220px-বিজয়_টিভির_লোগো.png" group-title="Bangladeshi",*Bijoy TV
-https://tempe.jagobd.com:445/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.imgur.com/kDmkexe.png",Bijoy TV
+https://rhridoy136.shortcm.li/bijoytv.m3u8
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/202/085a3357868699.Y3JvcCw3MTksNTYzLDMyMSw4Mw.jpg" group-title="Bangladeshi",Duronto TV
 http://babutv.aliflailabd.com:8989/duronto-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangladeshi",Channel I
@@ -79,6 +76,8 @@ http://babutv.aliflailabd.com:8989/rtv/index.m3u8
 http://tv.aliflailabd.com:8989/rtvmusic/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="Bangladeshi",SA TV
 http://babutv.aliflailabd.com:8989/satv/index.m3u8
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports HD
+http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 
 
 Bangla Online TV
@@ -104,10 +103,7 @@ http://tv.bdiptv.com:8081/live/progoti/chunks.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/sristytv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2y8Pt7g/2021-04-27-11-07-55.png" group-title="Bangla Online TV",Voice
 https://tempabs.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j6fruQc.png" group-title="Bangla Online TV", Royal TV
-https://tempe.jagobd.com:445/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qVy4UdD.jpg" group-title="Bangla Online TV",RANG TV
-https://tempe.jagobd.com:445/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rangiptv.stream/chunks.m3u8
+
 
 
 Indian Bangla
@@ -124,7 +120,8 @@ http://babutv.aliflailabd.com:8989/jalsha-movies/index.m3u8
 http://babutv.aliflailabd.com:8989/sony-aath/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla",Star Jalsha
 http://babutv.aliflailabd.com:8989/star-jalsha/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e7/8e/87/e78e875a3e973145f39ecfae2095db03.png" group-title="Indian Bangla",Zee Bangla
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e7/8e/87/e78e875a3e973145f39ecfae2095db03.png" group-title="Indian Bangla",**Zee Bangla
+http://173.199.120.51/hls/zeebanglahd.m3u8
 http://babutv.aliflailabd.com:8989/zee-bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla",*Zee Bangla Cinema
 https://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
@@ -144,8 +141,6 @@ http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",Sony Entertainment
 http://babutv.aliflailabd.com:8989/sony-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi",*Star Plus HD 
-http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BKZy8ye.jpg" group-title="Hindi",Star Plus
 http://babutv.aliflailabd.com:8989/star-plus/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi",**Zee TV
@@ -175,7 +170,7 @@ http://babutv.aliflailabd.com:8989/monoranjan-movies/index.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dtCdQF6/Zee-Action-new-removebg-preview.png" group-title="Hindi Movies",*Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/evnv0Ni.jpg" group-title="Hindi Movies",**Sony Max HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/evnv0Ni.jpg" group-title="Hindi Movies",Sony Max HD
 http://babutv.aliflailabd.com:8989/setmax/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi Movies",*Zee Cinema HD
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
@@ -248,7 +243,10 @@ http://babutv.aliflailabd.com:8989/zing/index.m3u8
 
 Kids
 
-
+#EXTINF:-1 group-title="Kids" tvg-logo="https://imgur.com/NmBF00q.png",*Disney Channel
+https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/swM1L4e.png",*Discovery Kids Hindi
+http://54.39.134.91:9090/24x7_kids_cr3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H3UGkci.png" group-title="Kids",Cartoon Network
 http://babutv.aliflailabd.com:8989/cartoon-network/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTeqSoIfVu1XGCOqkCtIQwdLraPE4XvNc96kMmCOVwuFy9c3Ytc8MZqYvN4uV4LzjjQzA&usqp=CAU" group-title="Kids",Cbeebies
