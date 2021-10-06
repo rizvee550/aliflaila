@@ -346,6 +346,81 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_qu
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pMQM7rC.png" group-title="Religious",Saudi Sunnah
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", T Sports HD [9]
+http://indo51.gcdn.co/BANGLA-BD-GAZITV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", SA TV HD [9]
+http://indo51.gcdn.co/BANGLA-BD-SATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Ekushey TV [9]
+http://indo51.gcdn.co/BANGLA-BD-EKUSHEYTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Deepto TV [9]
+http://indo51.gcdn.co/BANGLA-BD-DEEPTOTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Desh TV [9]
+http://indo51.gcdn.co/BANGLA-BD-DESHTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", RTV [9]
+http://indo51.gcdn.co/BANGLA-BD-RTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", NTV [9]
+http://indo51.gcdn.co/BANGLA-BD-NTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", My TV [9]
+http://indo51.gcdn.co/BANGLA-BD-MYTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", ATN News [9]
+http://indo51.gcdn.co/BANGLA-BD-ATNNEWS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", DBC News HD [9]
+http://indo51.gcdn.co/BANGLA-BD-DBCNEWS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Maasranga TV HD [9]
+http://indo51.gcdn.co/BANGLA-BD-MAASRANGATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Asian TV HD [9]
+http://indo51.gcdn.co/BANGLA-BD-ASIANTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Nagorik HD [9]
+http://indo51.gcdn.co/BANGLA-BD-NAGORIKTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Banglavision HD [9]
+http://indo51.gcdn.co/BANGLA-BD-BANGLAVISION/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Channel 24 HD [9]
+http://indo51.gcdn.co/BANGLA-BD-CHANNEL24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Colors Cineples HD [9]
+http://indo51.gcdn.co/hindi-COLORSCINEPLEXHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Star Bharat HD [9]
+http://indo51.gcdn.co/hindi-STARBHARATHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Star Plus HD [9]
+http://indo51.gcdn.co/hindi-STARPLUSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Zee TV HD [9]
+http://indo51.gcdn.co/hindi-ZEETVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Colors HD [9]
+http://indo51.gcdn.co/hindi-COLORSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Sony HD [9]
+http://indo51.gcdn.co/hindi-SONYHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Sony Max HD [9]
+http://indo51.gcdn.co/hindi-SONYMAXHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Star Gold HD [9]
+http://indo51.gcdn.co/hindi-STARGOLD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Sony Sab HD [9]
+http://indo51.gcdn.co/hindi-SONYSABHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", MTV Beats HD [9]
+http://indo51.gcdn.co/hindi-MTVBEATSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", MTV India [9]
+http://indo51.gcdn.co/hindi-MTVINDIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", B4U Music [9]
+http://indo51.gcdn.co/hindi-B4UMUSIC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Music India [9]
+http://indo51.gcdn.co/hindi-MUSICINDIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Sony Pal [9]
+http://indo51.gcdn.co/hindi-SONYPAL/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Zee Bollywood [9]
+http://indo51.gcdn.co/hindi-ZEEBOLLYWOOD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Zee Anmol [9]
+http://indo51.gcdn.co/hindi-ZEEANMOL/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Rishtey [9]
+http://indo51.gcdn.co/hindi-RISHTEY/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Sony Max 2 [9]
+http://indo51.gcdn.co/hindi-SONYMAX2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", DD National HD [9]
+http://indo51.gcdn.co/hindi-UTVMOVIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Big Magic [9]
+http://indo51.gcdn.co/hindi-BIGMAGIC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", E24 [9]
+http://indo51.gcdn.co/hindi-UTVACTION/tracks-v1a1/mono.m3u8
+
 Backup
 
 
