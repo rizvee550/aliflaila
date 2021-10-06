@@ -351,79 +351,86 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_s
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", T Sports HD [9]
-http://indo51.gcdn.co/BANGLA-BD-GAZITV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", SA TV HD [9]
-http://indo51.gcdn.co/BANGLA-BD-SATV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Ekushey TV [9]
-http://indo51.gcdn.co/BANGLA-BD-EKUSHEYTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Deepto TV [9]
-http://indo51.gcdn.co/BANGLA-BD-DEEPTOTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Desh TV [9]
-http://indo51.gcdn.co/BANGLA-BD-DESHTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", RTV [9]
-http://indo51.gcdn.co/BANGLA-BD-RTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", NTV [9]
-http://indo51.gcdn.co/BANGLA-BD-NTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", My TV [9]
-http://indo51.gcdn.co/BANGLA-BD-MYTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", ATN News [9]
-http://indo51.gcdn.co/BANGLA-BD-ATNNEWS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", DBC News HD [9]
-http://indo51.gcdn.co/BANGLA-BD-DBCNEWS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Maasranga TV HD [9]
-http://indo51.gcdn.co/BANGLA-BD-MAASRANGATV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Asian TV HD [9]
-http://indo51.gcdn.co/BANGLA-BD-ASIANTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Nagorik HD [9]
-http://indo51.gcdn.co/BANGLA-BD-NAGORIKTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Banglavision HD [9]
-http://indo51.gcdn.co/BANGLA-BD-BANGLAVISION/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Channel 24 HD [9]
-http://indo51.gcdn.co/BANGLA-BD-CHANNEL24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Colors Cineples HD [9]
-http://indo51.gcdn.co/hindi-COLORSCINEPLEXHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Star Bharat HD [9]
-http://indo51.gcdn.co/hindi-STARBHARATHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Star Plus HD [9]
-http://indo51.gcdn.co/hindi-STARPLUSHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Zee TV HD [9]
-http://indo51.gcdn.co/hindi-ZEETVHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Colors HD [9]
-http://indo51.gcdn.co/hindi-COLORSHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Sony HD [9]
-http://indo51.gcdn.co/hindi-SONYHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Sony Max HD [9]
-http://indo51.gcdn.co/hindi-SONYMAXHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Star Gold HD [9]
-http://indo51.gcdn.co/hindi-STARGOLD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Sony Sab HD [9]
-http://indo51.gcdn.co/hindi-SONYSABHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", MTV Beats HD [9]
-http://indo51.gcdn.co/hindi-MTVBEATSHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", MTV India [9]
-http://indo51.gcdn.co/hindi-MTVINDIA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", B4U Music [9]
-http://indo51.gcdn.co/hindi-B4UMUSIC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Music India [9]
-http://indo51.gcdn.co/hindi-MUSICINDIA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Sony Pal [9]
-http://indo51.gcdn.co/hindi-SONYPAL/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Zee Bollywood [9]
-http://indo51.gcdn.co/hindi-ZEEBOLLYWOOD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Zee Anmol [9]
-http://indo51.gcdn.co/hindi-ZEEANMOL/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Rishtey [9]
-http://indo51.gcdn.co/hindi-RISHTEY/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Sony Max 2 [9]
-http://indo51.gcdn.co/hindi-SONYMAX2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", DD National HD [9]
-http://indo51.gcdn.co/hindi-UTVMOVIES/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Big Magic [9]
-http://indo51.gcdn.co/hindi-BIGMAGIC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", E24 [9]
-http://indo51.gcdn.co/hindi-UTVACTION/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Aljazeera [10]
+https://feed.play.mv/live/1009/3Oe7G2E3rU/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", And Tv HD [10]
+https://feed.play.mv/live/1009/Cs525PFAub/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Animal Planet  [10]
+https://feed.play.mv/live/10005200/WG2gcEPjHK/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Animax HD [10]
+https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Axn HD [10]
+https://feed.play.mv/live/10005200/MKj28KXjmn/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", B4u Music [10]
+https://feed.play.mv/live/1009/n6W19r2lg7/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Cbeebies HD [10]
+https://feed.play.mv/live/10005200/xU1wA6Ugn9/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Cinema Europe HD [10]
+https://feed.play.mv/live/10005200/Ts9R8pNNTP/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Colors Cineplex HD [10]
+https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Colors HD [10]
+https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Crime Investigation [10]
+https://feed.play.mv/live/10005200/37MP1b7MI1/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Discovery HD [10]
+https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Discovery Science [10]
+https://feed.play.mv/live/1009/TRKXs71yTR/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Discovery SD [10]
+https://feed.play.mv/live/1009/4wC5xmuTf8/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Discovery Turbo [10]
+https://feed.play.mv/live/1009/1UjOk2jBiR/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Disnep Channel [10]
+https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Disnep HD International [10]
+https://feed.play.mv/live/10005200/IegKU9vXWg/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Disnep Junior [10]
+https://feed.play.mv/live/10005200/o6Yy0uDh9t/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Eurosport HD [10]
+https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Food Network HD [10]
+https://feed.play.mv/live/10005200/aGu172is5o/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", History 2 Channel HD [10]
+https://feed.play.mv/live/10005200/uzBWuYCU0z/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", History Channel HD [10]
+https://feed.play.mv/live/10005200/isb9Qf3P5M/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Marvel HQ [10]
+https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Nick HD+ [10]
+https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Outdoor Channel [10]
+https://feed.play.mv/live/1009/E6O26jTzFh/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Paramount Channel HD [10]
+https://feed.play.mv/live/10005200/zC2aLVTjgF/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Sony Bbc Earth HD [10]
+https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Sony HD [10]
+https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Sony Max HD [10]
+https://feed.play.mv/live/10005200/Xe5PWNrbRZ/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Sony Pix HD [10]
+https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Sony Sab [10]
+https://feed.play.mv/live/1009/LdG80WcrbS/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Sony Six HD [10]
+https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Sony Ten 1 HD [10]
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Sony Ten 2 HD [10]
+https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Sony Ten 3 HD [10]
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", TLC HD [10]
+https://feed.play.mv/live/10005200/HE8qFtMl9Q/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Utv Movies [10]
+https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Zee Cinema [10]
+https://feed.play.mv/live/1009/U4igJyzIbn/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Zee Tv HD [10]
+https://feed.play.mv/live/10005200/HXW3hMDfn5/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Zoomoo HD [10]
+https://feed.play.mv/live/10005200/sdwa8BgXE4/master.m3u8
 Backup
 
 
