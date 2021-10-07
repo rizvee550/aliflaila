@@ -242,9 +242,10 @@ http://tv.aliflailabd.com:8989/rtvmusic/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.kcvnet.in/images/chanellogo/sangeet_bangla_in.png" group-title="Music",**Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 http://babutv.aliflailabd.com:8989/sangeet-bangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="Music",**Zing
-https://20hw.short.gy/thenayeemparvez/Zing.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="Music",*Zing
 http://babutv.aliflailabd.com:8989/zing/index.m3u8
+https://20hw.short.gy/thenayeemparvez/Zing.m3u8
+
 
 
 
