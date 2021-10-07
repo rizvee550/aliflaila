@@ -432,63 +432,6 @@ https://feed.play.mv/live/10005200/HXW3hMDfn5/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="FHD Server", Zoomoo HD [10]
 https://feed.play.mv/live/10005200/sdwa8BgXE4/master.m3u8
 
-Zeee 5 Channel
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zing" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Zing_300x300.png/revision/latest/scale-to-width-down/250?cb=20171014201547" group-title="ZEE5",Zing
-https://20hw.short.gy/thenayeemparvez/Zing.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Big Magic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhAB8aEy4tcFGQaAMBr54UfAuk33krhVulQg&usqp=CAU" group-title="ZEE5",Big Magic
-https://20hw.short.gy/thenayeemparvez/Big-Magic.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ZEE5",Zee TV HD
-https://20hw.short.gy/thenayeemparvez/Zee-TV-HD.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsOAcq2lhq9jS2_pogtZ8Lxz11SSvD7aJLyQ&usqp=CAU" group-title="ZEE5",&TV HD
-https://20hw.short.gy/thenayeemparvez/&TV-HD.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cafe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiihn1Z-NY9n3TFY_sr8-UZJUE1oOPuQdXuQ&usqp=CAU" group-title="ZEE5",Zee Cafe
-https://20hw.short.gy/nayeem86/Zee-Cafe-HD.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest/scale-to-width-down/300?cb=20210509180125" group-title="ZEE5",Zee Bangla HD
-https://20hw.short.gy/thenayeemparvez/ZeeBanglaHD.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Anmol" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Zee_anmol.png/revision/latest/scale-to-width-down/250?cb=20210514165258" group-title="ZEE5",Zee Anmol
-https://20hw.short.gy/nayeem86/Zee-anmol.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cinema HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="ZEE5",Zee Cinema HD
-https://20hw.short.gy/nayeem86/Zee-Cinema-HD.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&Pictures HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEPCXHks4I7ZjdCH_w-MGKkH6JR0co_gce-w&usqp=CAU" group-title="ZEE5",&Pictures HD
-https://20hw.short.gy/nayeem86/&Pictures-HD.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Talkies HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4a-AhCnvLeU02Os-RQ7zaN19kWdXgImTyJQ&usqp=CAU" group-title="ZEE5",Zee Talkies HD
-https://20hw.short.gy/nayeem86/Zee-Talkies.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ60N1o4i2GdcG4SM29IsrSF1LOsqc2fHselg&usqp=CAU" group-title="ZEE5",Zee Bangla Cinema
-https://20hw.short.gy/nayeem86/Zee-Bangla-Cinema.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6bsC8XT_OcbZItMctonYiea5dvHktQjDsFA&usqp=CAU" group-title="ZEE5",Zee Bollywood
-https://20hw.short.gy/nayeem86/zee-classic.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="ZEE5",Zee Cinema
-https://20hw.short.gy/nayeem86/zee-cinema.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Action" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png/revision/latest?cb=20200113074207" group-title="ZEE5",Zee Action
-https://20hw.short.gy/nayeem86/zee-action.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9X Jalwa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUOi0eJ18OwglLERR33KESzYTItmKMVhTnoA&usqp=CAU" group-title="ZEE5",9X Jalwa
-https://20hw.short.gy/nayeem86/9x-jalwa.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9XM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZm9FBFgkaePcSyZRkAMPDulSLvUQLx7pojg&usqp=CAU" group-title="ZEE5",9XM
-https://20hw.short.gy/nayeem86/9xm.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9X Jhakaas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvyfjefPQlmAgTkqRKd54u5eUyVUqoA-NWkw&usqp=CAU" group-title="ZEE5",9X Jhakaas
-https://20hw.short.gy/nayeem86/9x-jhakaas.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boogle Bollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfjO9tBm4eMgmriBrW-P6JyyTOiBwLCx0Mfg&usqp=CAU" group-title="ZEE5",Boogle Bollywood
-https://20hw.short.gy/nayeem86/boogle-bollywood.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&Flix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST1zo3z-va083U4QLRnNS4kT8AQBP6ZYaINQ&usqp=CAU" group-title="ZEE5",&Flix
-https://20hw.short.gy/nayeem86/&flix.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9X Tashan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuTXFFZU85shuXO0TXwGkR2nFVcd-xtStbqQ&usqp=CAU" group-title="ZEE5",9X Tashan
-https://20hw.short.gy/nayeem86/9x-tashan.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ZEE5",Zee TV
-https://20hw.short.gy/nayeem86/zee-tv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Classic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXtlFGNjA7eydRCsmEG07ZCQqwtH44qI7guA&usqp=CAU" group-title="ZEE5",Zee Classic
-https://20hw.short.gy/nayeem86/zee_classic.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bioskop" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt2eic701TsGeomanCIcmDjLQo701c_CtLJw&usqp=CAU" group-title="ZEE5",Zee Bioskop
-https://20hw.short.gy/nayeem86/zee-bioskop.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Zest" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYQoqR7KPK6TVd96v8ywVZvp0eTy5UxPQSyg&usqp=CAU" group-title="ZEE5",Zee Zest
-https://20hw.short.gy/nayeem86/zee-zest.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee5 Originals" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" group-title="ZEE5",Zee5 Originals
-https://20hw.short.gy/nayeem86/zee-5-originals.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Music Co." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoshvzjVo0ZrghzNOniN8FtgXbBQukKLwwbA&usqp=CAU" group-title="ZEE5",Zee Music Co.
-https://20hw.short.gy/nayeem86/zee-5-romance.m3u8
-
-
 
 
 Backup
