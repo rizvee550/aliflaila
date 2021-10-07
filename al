@@ -434,9 +434,7 @@ https://feed.play.mv/live/10005200/sdwa8BgXE4/master.m3u8
 
 Zeee 5 Channel
 
-#EXTM3U url-tvg="" url="https://1ojy.short.gy/thenayeemparvez/zee5.m3u"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nayeem Parvez" tvg-logo="https://m3u-editor.com/storage/channel-logos/ce453100-11a3-11ec-8713-71feefab3902/2115109/376145210.jpg" group-title="The Nayeem Parvez ツ",Nayeem Parvez
-http://imgur.com/3Y8XPK6.mp4
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zing" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Zing_300x300.png/revision/latest/scale-to-width-down/250?cb=20171014201547" group-title="ZEE5",Zing
 https://20hw.short.gy/thenayeemparvez/Zing.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Big Magic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhAB8aEy4tcFGQaAMBr54UfAuk33krhVulQg&usqp=CAU" group-title="ZEE5",Big Magic
