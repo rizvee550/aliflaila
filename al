@@ -78,6 +78,8 @@ http://tv.aliflailabd.com:8989/rtvmusic/index.m3u8
 http://babutv.aliflailabd.com:8989/satv/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports HD
 http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Bangladeshi", Gaan Bangla
+http://103.205.133.40/hls/gaanbangla.m3u8
 
 
 Bangla Online TV
@@ -116,7 +118,8 @@ http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Indian Bangla",Jalsha Movies
 http://babutv.aliflailabd.com:8989/jalsha-movies/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Indian Bangla",Sony Aath
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Indian Bangla",**Sony Aath
+http://103.205.133.40/hls/sony8.m3u8
 http://babutv.aliflailabd.com:8989/sony-aath/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla",Star Jalsha
 http://babutv.aliflailabd.com:8989/star-jalsha/index.m3u8
@@ -140,9 +143,11 @@ http://babutv.aliflailabd.com:8989/colors-hd/index.m3u8
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",Sony Entertainment
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",**Sony Entertainment
+http://103.205.133.40/hls/chs.m3u8
 http://babutv.aliflailabd.com:8989/sony-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BKZy8ye.jpg" group-title="Hindi",Star Plus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BKZy8ye.jpg" group-title="Hindi",**Star Plus
+http://103.205.133.40/hls/chsp.m3u8
 http://babutv.aliflailabd.com:8989/star-plus/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qQeesU6.png" group-title="Hindi", Sony Sab HD
 http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
@@ -207,7 +212,8 @@ http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 http://tv.aliflailabd.com:8989/mn-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English",Sony Pix HD
 http://babutv.aliflailabd.com:8989/sony-pix-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English",Star Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English",**Star Movies
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://tv.aliflailabd.com:8989/star-movies-hd/index.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",*Zee Cafe HD
 https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
@@ -268,7 +274,8 @@ http://babutv.aliflailabd.com:8989/nick/index.m3u8
 
 Documentary
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/07/BBC-Earth-Logo-1-2.png" group-title="Documentary",BBC Earth
 http://babutv.aliflailabd.com:8989/bbc-earth/index.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-OnOm7RSatn4/UIcI6ttOGYI/AAAAAAAAdjE/N7x8NIRy38U/s1600/BBC%252BLifestyle%252Blogo.jpg" group-title="Documentary",BBC Lifestyle
