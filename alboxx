@@ -118,31 +118,15 @@ https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 
 
-Hindi
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi",*& TV
-https://feed.play.mv/live/1009/Cs525PFAub/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/tv18-colors-tv-hd-logo.jpg" group-title="Hindi",**Colors HD
-http://93.190.139.35:8278/streams/d/Colorhd/playlist.m3u8
-http://babutv.aliflailabd.com:8989/colors-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r4mGwW1/Dabangg-logo-removebg-preview.png" group-title="Hindi",*Dabaang Tv
-http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",*Sony Entertainment HD
-http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
-http://babutv.aliflailabd.com:8989/sony-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi",*Star Plus HD 
-http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" group-title="Hindi",*Star World BDC
-http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi",**Zee TV
-http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
-http://babutv.aliflailabd.com:8989/zeetv/index.m3u8
-
-
 Hindi Movies
 
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi Movies",*& TV
+https://feed.play.mv/live/1009/Cs525PFAub/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/tv18-colors-tv-hd-logo.jpg" group-title="Hindi Movies",**Colors HD
+http://93.190.139.35:8278/streams/d/Colorhd/playlist.m3u8
+http://babutv.aliflailabd.com:8989/colors-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r4mGwW1/Dabangg-logo-removebg-preview.png" group-title="Hindi Movies",*Dabaang Tv
+http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.kcvnet.in/images/chanellogo/b_flix_movies_in.png" group-title="Hindi Movies",**BFlix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 http://babutv.aliflailabd.com:8989/bflix-movie/index.m3u8
@@ -166,12 +150,10 @@ http://babutv.aliflailabd.com:8989/setmax/index.m3u8
 https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi Movies",*Zee Cinema HD
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi Movies",*Zee Cinema 
-http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
-
-
 
 English
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English",**AXN 
 https://feed.play.mv/live/10005200/MKj28KXjmn/master.m3u8
 http://babutv.aliflailabd.com:8989/axn-hd/index.m3u8
@@ -193,8 +175,6 @@ http://babutv.aliflailabd.com:8989/9xm/index.m3u8
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="Music",*9X Jhakaas
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="iLove" tvg-logo="https://exchange4media.gumlet.io/news-photo/101183-ilove.jpg?format=webp&w=400&dpr=2.6" group-title="Music",*iLove
-http://14.199.164.20:4001/play/a0p3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Music",Gaan Bangla
 http://babutv.aliflailabd.com:8989/gaanbangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/83/488/png-transparent-mtv-logo-television-viacom-media-networks-creative-music-miscellaneous-white-text.png" group-title="Music",MTV
@@ -207,11 +187,6 @@ http://babutv.aliflailabd.com:8989/musti-music/index.m3u8
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 http://babutv.aliflailabd.com:8989/sangeet-bangla/index.m3u8
 
-
-Kids
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://imgur.com/NmBF00q.png",*Disney Channel
-https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
 
 
 Documentary
@@ -226,8 +201,7 @@ https://idvd.multitvsolution.com:443/idvo/discoversciencehindi_540p/index.m3u8
 https://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",DW
 http://babutv.aliflailabd.com:8989/dw/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P7JRmze.png" group-title="Documentary",*TLC 
-http://idvd.multitvsolution.com/idvo/tlchdhindi.m3u8
+
 
 
 Sports
@@ -258,23 +232,11 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 http://babutv.aliflailabd.com:8989/tsports/index.m3u8
 
 
-
 Religious
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R9FLtGM/BTV-Live-removebg-preview.png" group-title="Religious",ATN Islamic
 http://babutv.aliflailabd.com:8989/atnislamictv/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Al Aqsa TV" tvg-logo="https://www.terrorism-info.org.il/data/articles/Art_18131/hamas_099_3.jpg" group-title="Religious",Al Aqsa TV
-https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Al Istiqama TV" tvg-logo="https://img.iptvmate.net/5e933b41b3bdf92f6965c700.png" group-title="Religious",Al Istiqama TV
-http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Noor TV UK" tvg-logo="https://www.thenoor.tv/wp-content/uploads/2020/08/Noor-tv-heder-logo-copy-1.png" group-title="Religious",Noor TV UK
-https://ls1.serverdump.com/stream3.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Saudi Quran" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Religious",Saudi Quran
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pMQM7rC.png" group-title="Religious",Saudi Sunnah
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
-
 
 
 Backup
