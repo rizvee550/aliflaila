@@ -109,9 +109,10 @@ https://tempabs.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFz
 
 Indian Bangla
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Indian Bangla", Star Jalsha 
+http://babutv.aliflailabd.com:8989/star-jalsha/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LeIa06D.png" group-title="Indian Bangla",*ABP Ananda
 https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla",*Colors Bangla HD
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kXfuCMM.png" group-title="Indian Bangla",*News 18 Bangla
@@ -148,8 +149,12 @@ https://feed.play.mv/live/10005200/Xe5PWNrbRZ/1.m3u8
 http://babutv.aliflailabd.com:8989/setmax/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AnkD43r.png" group-title="Hindi Movies",*UTV Movies
 https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
+#EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="Hindi Movies",*WoW Cinema
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi Movies",*Zee Cinema HD
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi Movies",*Zee Action
+http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8
 
 English
 
@@ -213,9 +218,6 @@ http://babutv.aliflailabd.com:8989/adsports1/index.m3u8
 http://babutv.aliflailabd.com:8989/adsports2/index.m3u8
 #EXTINF:0 tvg-logo="https://www.wataan.tv/uploads/13122017-022552PM.png" group-title="Sports",Ad Sports 3
 http://babutv.aliflailabd.com:8989/adsports3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KKzaw0T.png" group-title="Sports",*Bein Sports 2 HD 
-http://88.barouhn.xyz.global.prod.fastly.net/live/616194987/index.m3u8
 #EXTINF:0 tvg-logo="https://cdn.imgbin.com/1/6/20/imgbin-espn-television-show-streaming-media-live-television-major-league-baseball-13Ys5XUsXfuxiQN6QKeRtLN8D.jpg" group-title="Sports",Sony ESPN
 http://babutv.aliflailabd.com:8989/sony-espn-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports",*Sony Ten 1 
@@ -224,8 +226,6 @@ https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
 https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports",*Sony Ten 3 
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports",*Star Sports 2
-http://93.152.174.144:4000/play/ss2in/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="Sports",*Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports
