@@ -1,5 +1,17 @@
 #EXTM3U
 
+Special Channel
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Special Channel", Star Sports
+http://172.16.29.28:8080/hls/live1-fnet.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Special Channel", Star Jalsha
+http://babutv.aliflailabd.com:8989/star-jalsha/index.m3u8
+#EXTINF:-1 group-title="Special Channel" tvg-logo="https://www.v4stream.com/upload/source/Raise%20tamilhd.png",Rasi Movies
+http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
+
+
+
 News
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="News",ATN News
@@ -144,8 +156,7 @@ https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi Movies",*Zee Cinema HD
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi Movies",*Zee Action
-http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8
+
 
 English
 
@@ -205,8 +216,6 @@ http://babutv.aliflailabd.com:8989/adsports1/index.m3u8
 http://babutv.aliflailabd.com:8989/adsports2/index.m3u8
 #EXTINF:0 tvg-logo="https://www.wataan.tv/uploads/13122017-022552PM.png" group-title="Sports",Ad Sports 3
 http://babutv.aliflailabd.com:8989/adsports3/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.imgbin.com/1/6/20/imgbin-espn-television-show-streaming-media-live-television-major-league-baseball-13Ys5XUsXfuxiQN6QKeRtLN8D.jpg" group-title="Sports",Sony ESPN
-http://babutv.aliflailabd.com:8989/sony-espn-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="Sports",*Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports
