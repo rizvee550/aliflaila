@@ -7,8 +7,7 @@ Special Channel
 http://172.16.29.28:8080/hls/live1-fnet.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Special Channel", Star Jalsha
 http://babutv.aliflailabd.com:8989/star-jalsha/index.m3u8
-#EXTINF:-1 group-title="Special Channel" tvg-logo="https://www.v4stream.com/upload/source/Raise%20tamilhd.png",Rasi Movies
-http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
+
 
 
 
@@ -56,8 +55,6 @@ http://babutv.aliflailabd.com:8989/btv-world/index.m3u8
 http://103.106.2.149:13456/btv_ctg.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sanshad tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg " group-title="Bangladeshi",*BTV Sanshad TV
 http://103.106.2.149:13456/sangsad.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.imgur.com/kDmkexe.png",Bijoy TV
-https://rhridoy136.shortcm.li/bijoytv.m3u8
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/202/085a3357868699.Y3JvcCw3MTksNTYzLDMyMSw4Mw.jpg" group-title="Bangladeshi",Duronto TV
 http://babutv.aliflailabd.com:8989/duronto-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangladeshi",Channel I
@@ -112,8 +109,6 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hCgCPyw/Zee-Zest-removebg-preview-2.png" group-title="Bangla Online TV",NAN TV
 https://tempabs.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ai5p9BP.jpg" group-title="Bangla Online TV", Nexus TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nexustv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/12/Sristy-tv-final-3-01.png" group-title="Bangla Online TV",Sristy Tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/sristytv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2y8Pt7g/2021-04-27-11-07-55.png" group-title="Bangla Online TV",Voice
@@ -135,8 +130,6 @@ Hindi Movies
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi Movies",*& TV
 https://feed.play.mv/live/1009/Cs525PFAub/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/tv18-colors-tv-hd-logo.jpg" group-title="Hindi Movies",**Colors HD
-http://93.190.139.35:8278/streams/d/Colorhd/playlist.m3u8
 http://babutv.aliflailabd.com:8989/colors-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r4mGwW1/Dabangg-logo-removebg-preview.png" group-title="Hindi Movies",*Dabaang Tv
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
@@ -150,8 +143,6 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 http://babutv.aliflailabd.com:8989/monoranjan-movies/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://www.kcvnet.in/images/chanellogo/maha_movie_in.png" group-title="Hindi Movies",*Maha Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AnkD43r.png" group-title="Hindi Movies",*UTV Movies
-https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="Hindi Movies",*WoW Cinema
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi Movies",*Zee Cinema HD
