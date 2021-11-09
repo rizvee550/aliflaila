@@ -7,6 +7,8 @@ Special Channel
 http://172.16.29.28:8080/hls/live1-fnet.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Special Channel", Star Jalsha
 http://babutv.aliflailabd.com:8989/star-jalsha/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/zeebanglahd.jpg" group-title="Special Channel" ,Zee Bangla HD
+https://nayeem-parvez.tk/Zee-Bangla-HD.m3u8
 
 
 
@@ -214,6 +216,10 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports
 http://babutv.aliflailabd.com:8989/tsports/index.m3u8
 
+Kids
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/cChZ0ai.png",Disney Channel- Hindi
+https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
 
 Religious
 
