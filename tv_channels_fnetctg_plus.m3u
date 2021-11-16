@@ -2,27 +2,27 @@
 
 News
 
-#EXTINF:-1 tvg-id="" tvg-name="ATN NEWS" tvg-logo="http://roarmediazone.com/tv/weblogo/108.jpg" group-title="News",ATN NEWS
+#EXTINF:-1 tvg-id="" tvg-name="ATN NEWS" tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="News",ATN News
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/49.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel 24" tvg-logo="http://roarmediazone.com/tv/img/channel24.jpg" group-title="News",Channel 24
+#EXTINF:-1 tvg-id="" tvg-name="Channel 24" tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="News",Channel 24
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DBC News" tvg-logo="http://roarmediazone.com/tv/weblogo/99.jpg" group-title="News",DBC News
+#EXTINF:-1 tvg-id="" tvg-name="DBC News" tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="News",DBC News
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ekattor TV" tvg-logo="http://roarmediazone.com/tv/weblogo/88.jpg" group-title="News",Ekattor TV
+#EXTINF:-1 tvg-id="" tvg-name="Ekattor TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="News",Ekattor TV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/11.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Independent TV" tvg-logo="http://roarmediazone.com/tv/weblogo/67.jpg" group-title="News",Independent TV
+#EXTINF:-1 tvg-id="" tvg-name="Independent TV" tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="News",Independent TV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/12.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jamuna TV" tvg-logo="http://roarmediazone.com/tv/weblogo/61.jpg" group-title="News",Jamuna TV
+#EXTINF:-1 tvg-id="" tvg-name="Jamuna TV" tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="News",Jamuna TV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/13.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="News24" tvg-logo="http://roarmediazone.com/tv/weblogo/65.jpg" group-title="News",News24
+#EXTINF:-1 tvg-id="" tvg-name="News24" tvg-logo="https://i.imgur.com/FxsW4XI.png" group-title="News",News 24
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/18.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Somoy TV" tvg-logo="http://roarmediazone.com/tv/weblogo/59.jpg" group-title="News",Somoy TV
+#EXTINF:-1 tvg-id="" tvg-name="Somoy TV" tvg-logo="https://i.imgur.com/Z2QvpTn.png" group-title="News",Somoy
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/17.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera" tvg-logo="" group-title="News",Al Jazeera
+#EXTINF:-1 tvg-id="" tvg-name="Al Jajeera" tvg-logo="https://i.pinimg.com/originals/11/6e/d8/116ed80f298c8ee40551e9291a2273f6.png" group-title="News",AL Jajeera
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/89.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DW NEWS" tvg-logo="" group-title="News",DW NEWS
+#EXTINF:-1 tvg-id="" tvg-name="DW NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="News",DW NEWS
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/85.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PTV WORLD" tvg-logo="" group-title="News",PTV WORLD
+#EXTINF:-1 tvg-id="" tvg-name="PTV WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/PTV_World_logo.png" group-title="News",PTV WORLD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/92.m3u8
 
 Bangla
