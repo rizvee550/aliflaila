@@ -18,7 +18,7 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/13.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/18.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Somoy TV" tvg-logo="https://i.imgur.com/Z2QvpTn.png" group-title="News",Somoy
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/17.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Jajeera" tvg-logo="https://i.pinimg.com/originals/11/6e/d8/116ed80f298c8ee40551e9291a2273f6.png" group-title="News",AL Jajeera
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera" tvg-logo="https://i.pinimg.com/originals/11/6e/d8/116ed80f298c8ee40551e9291a2273f6.png" group-title="News",AL Jazeera
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/89.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DW NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="News",DW NEWS
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/85.m3u8
@@ -27,55 +27,55 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/92.m3u8
 
 Bangla
 
-#EXTINF:-1 tvg-id="" tvg-name="Ananda TV" tvg-logo="http://roarmediazone.com/tv/weblogo/85.jpg" group-title="Bangla",Ananda TV
+#EXTINF:-1 tvg-id="" tvg-name="Ananda TV" tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangla",Ananda TV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/16.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Asian TV" tvg-logo="http://roarmediazone.com/tv/weblogo/69.jpg" group-title="Bangla",Asian TV
+#EXTINF:-1 tvg-id="" tvg-name="Asian TV" tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangla",Asian TV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/62.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="http://roarmediazone.com/tv/weblogo/107.jpg" group-title="Bangla",ATN Bangla
+#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla",ATN Bangla
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bangla Talkies" tvg-logo="" group-title="Bangla",Bangla Talkies
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/91.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bangla TV" tvg-logo="http://roarmediazone.com/tv/weblogo/106.jpg" group-title="Bangla",Bangla TV
+#EXTINF:-1 tvg-id="" tvg-name="Bangla TV" tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Bangla",Bangla TV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/19.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Banglavision TV" tvg-logo="http://roarmediazone.com/tv/weblogo/120.jpg" group-title="Bangla",Banglavision TV
+#EXTINF:-1 tvg-id="" tvg-name="Banglavision TV" tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangla",Banglavision
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Boishakhi TV" tvg-logo="http://roarmediazone.com/tv/weblogo/113.jpg" group-title="Bangla",Boishakhi TV
+#EXTINF:-1 tvg-id="" tvg-name="Boishakhi TV" tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Bangla",Boishakhi TV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/61.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="Bangla",BTV
+#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Bangladesh_Television_Logo.png" group-title="Bangla",BTV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/53.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSb1MKImRa4-SmCTjyXoJI4Y8QjRw7Al5vwPLm02QdawCkT5pv" group-title="Bangla",BTV World
+#EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="https://i.imgur.com/o90Y1Me.png" group-title="Bangla",BTV World
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/84.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel 9" tvg-logo="" group-title="Bangla",Channel 9
+#EXTINF:-1 tvg-id="" tvg-name="Channel 9" tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Bangla",Channel 9
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel I" tvg-logo="http://roarmediazone.com/tv/weblogo/101.jpg" group-title="Bangla",Channel I
+#EXTINF:-1 tvg-id="" tvg-name="Channel I" tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla",Channel I
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Deepto TV" tvg-logo="http://roarmediazone.com/tv/weblogo/68.jpg" group-title="Bangla",Deepto TV
+#EXTINF:-1 tvg-id="" tvg-name="Deepto TV" tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangla",Deepto TV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Desh TV" tvg-logo="http://roarmediazone.com/tv/weblogo/98.jpg" group-title="Bangla",Desh TV
+#EXTINF:-1 tvg-id="" tvg-name="Desh TV" tvg-logo="http://tv.bdtype.com/uploads/tv_image/desh-tv.png" group-title="Bangla",Desh TV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ekushy TV" tvg-logo="http://roarmediazone.com/tv/weblogo/87.jpg" group-title="Bangla",Ekushy TV
+#EXTINF:-1 tvg-id="" tvg-name="Ekushy TV" tvg-logo="http://www.chonnochara.com/wp-content/uploads/2017/05/ekushey-tv.jpg" group-title="Bangla",ETV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/65.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gazi TV" tvg-logo="http://roarmediazone.com/tv/weblogo/31.jpg" group-title="Bangla",Gazi TV
+#EXTINF:-1 tvg-id="" tvg-name="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",Gazi TV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Maasranga" tvg-logo="http://roarmediazone.com/tv/weblogo/78.jpg" group-title="Bangla",Maasranga
+#EXTINF:-1 tvg-id="" tvg-name="Maasranga" tvg-logo="https://i.imgur.com/7ftu2Rt.jpg" group-title="Bangla",Maasranga
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/51.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mohona TV" tvg-logo="http://roarmediazone.com/tv/weblogo/77.jpg" group-title="Bangla",Mohona TV
+#EXTINF:-1 tvg-id="" tvg-name="Mohona TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/640px-Mohona_tv_Logo.svg.png" group-title="Bangla",Mohona TV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/50.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY TV" tvg-logo="http://roarmediazone.com/tv/weblogo/96.jpg" group-title="Bangla",MY TV
+#EXTINF:-1 tvg-id="" tvg-name="MY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="Bangla",MY TV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/56.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nagorik TV" tvg-logo="http://roarmediazone.com/tv/weblogo/110.jpg" group-title="Bangla",Nagorik TV
+#EXTINF:-1 tvg-id="" tvg-name="Nagorik TV" tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="Bangla",Nagorik
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/59.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="http://roarmediazone.com/tv/weblogo/111.jpg" group-title="Bangla",NTV
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Bangla",NTV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/54.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Movie Bangla TV" tvg-logo="" group-title="Bangla",Movie Bangla TV
+#EXTINF:-1 tvg-id="" tvg-name="Movie Bangla TV" tvg-logo="https://i.ytimg.com/vi/n8xwHts937U/hqdefault_live.jpg" group-title="Bangla",Movie Bangla TV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/86.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="http://roarmediazone.com/tv/weblogo/70.jpg" group-title="Bangla",RTV
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://creativeeventsbd.com/wp-content/uploads/2019/12/RTV-1.png" group-title="Bangla",RTV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/14.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ruposhi Bangla" tvg-logo="" group-title="Bangla",Ruposhi Bangla
+#EXTINF:-1 tvg-id="" tvg-name="Ruposhi Bangla" tvg-logo="https://w7.pngwing.com/pngs/428/317/png-transparent-ruposhi-bangla-television-channel-bengali-live-television-bangla-tv-love-television-text.png" group-title="Bangla",Ruposhi Bangla
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/95.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sangsad TV" tvg-logo="" group-title="Bangla",Sangsad TV
+#EXTINF:-1 tvg-id="" tvg-name="Sangsad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangla",Sangsad TV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/88.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SA TV" tvg-logo="http://roarmediazone.com/tv/weblogo/121.jpg" group-title="Bangla",SA TV
+#EXTINF:-1 tvg-id="" tvg-name="SA TV" tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="Bangla",SA TV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/15.m3u8
 
 
