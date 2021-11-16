@@ -194,8 +194,6 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/20.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/21.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3" tvg-logo="http://roarmediazone.com/tv/weblogo/14.jpg" group-title="Sports",Sony Ten 3
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/22.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports",* Star Sports 1 HD
-http://172.16.29.28:8080/hls/live1-fnet.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1" tvg-logo="http://roarmediazone.com/tv/weblogo/89.jpg" group-title="Sports",Star Sports 1
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/25.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 2" tvg-logo="http://roarmediazone.com/tv/weblogo/41.jpg" group-title="Sports",Star Sports 2
