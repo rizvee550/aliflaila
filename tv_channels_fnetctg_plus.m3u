@@ -21,7 +21,8 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/49.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/85.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Jazeera" tvg-logo="" group-title="News",Al Jazeera
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/89.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="PTV WORLD" tvg-logo="" group-title="News",PTV WORLD
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/92.m3u8
 Bangla
 #EXTINF:-1 tvg-id="" tvg-name="Gazi TV" tvg-logo="http://roarmediazone.com/tv/weblogo/31.jpg" group-title="Bangla",Gazi TV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/1.m3u8
@@ -131,7 +132,8 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/45.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/69.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="And Flix" tvg-logo="http://roarmediazone.com/tv/weblogo/48.jpg" group-title="English",And Flix
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/78.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Mnx" tvg-logo="http://roarmediazone.com/tv/weblogo/20.jpg" group-title="English",Mnx
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/39.m3u8
 Music
 #EXTINF:-1 tvg-id="" tvg-name="Zee ETC" tvg-logo="http://roarmediazone.com/tv/weblogo/01.jpg" group-title="Music",Zee ETC
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/46.m3u8
@@ -145,16 +147,13 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/58.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/60.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATN Music" tvg-logo="" group-title="Music",ATN Music
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/82.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PTV WORLD" tvg-logo="" group-title="Music",PTV WORLD
-http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/92.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ZING" tvg-logo="" group-title="Music",ZING
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/93.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sangeet bangla" tvg-logo="http://hitectv.live/anytv/sangeetbangla.png" group-title="Music",Sangeet bangla
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/96.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9x jhakaas" tvg-logo="" group-title="Music",9x jhakaas
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/99.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mnx" tvg-logo="http://roarmediazone.com/tv/weblogo/20.jpg" group-title="Music",Mnx
-http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/39.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony MIX" tvg-logo="http://roarmediazone.com/tv/weblogo/18.jpg" group-title="Music",Sony MIX
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/47.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9xo / 9x-jalwa" tvg-logo="" group-title="Music",9xo / 9x-jalwa
