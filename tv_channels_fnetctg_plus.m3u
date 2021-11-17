@@ -41,7 +41,7 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/19.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boishakhi TV" tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Bangla",Boishakhi TV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/61.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Bangladesh_Television_Logo.png" group-title="Bangla",BTV
+#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/220px-Bangladesh_Television_Logo.svg.png" group-title="Bangla",BTV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/53.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="https://i.imgur.com/o90Y1Me.png" group-title="Bangla",BTV World
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/84.m3u8
@@ -71,7 +71,7 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/54.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/86.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://creativeeventsbd.com/wp-content/uploads/2019/12/RTV-1.png" group-title="Bangla",RTV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/14.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ruposhi Bangla" tvg-logo="https://w7.pngwing.com/pngs/428/317/png-transparent-ruposhi-bangla-television-channel-bengali-live-television-bangla-tv-love-television-text.png" group-title="Bangla",Ruposhi Bangla
+#EXTINF:-1 tvg-id="" tvg-name="Ruposhi Bangla" tvg-logo="https://banner2.cleanpng.com/20180624/gsh/kisspng-ruposhi-bangla-television-channel-bengali-live-tel-bangla-tv-5b305972468b50.950306841529895282289.jpg" group-title="Bangla",Ruposhi Bangla
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/95.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sangsad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangla",Sangsad TV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/88.m3u8
@@ -81,13 +81,13 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/15.m3u8
 
 Indian Bangla
 
-#EXTINF:-1 tvg-id="" tvg-name="Akaash Aath" tvg-logo="http://roarmediazone.com/tv/weblogo/109.jpg" group-title="Indian Bangla",Akaash Aath
+#EXTINF:-1 tvg-id="" tvg-name="Akaash Aath" tvg-logo="https://hindusthan.org/wp-content/uploads/2019/12/36_HP_Aakash-Aath.png" group-title="Indian Bangla",Akaash Aath
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/32.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="http://roarmediazone.com/tv/weblogo/100.jpg" group-title="Indian Bangla",Colors Bangla
+#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla",Colors Bangla
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/66.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="http://roarmediazone.com/tv/weblogo/123.jpg" group-title="Indian Bangla",Sony Aath
+#EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1742px-Sony_Aath_logo.svg.png" group-title="Indian Bangla",Sony Aath
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/33.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="http://roarmediazone.com/tv/weblogo/90.jpg" group-title="Indian Bangla",Star Jalsha
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian Bangla",Star Jalsha HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/30.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha Movies" tvg-logo="http://roarmediazone.com/tv/weblogo/125.jpg" group-title="Indian Bangla",Star Jalsha Movies
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/31.m3u8
