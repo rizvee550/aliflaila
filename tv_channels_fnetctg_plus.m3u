@@ -144,25 +144,25 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/69.m3u8
 
 Music
 
-#EXTINF:-1 tvg-id="" tvg-name="9xM" tvg-logo="http://roarmediazone.com/tv/weblogo/97.jpg" group-title="Music",9xM
+#EXTINF:-1 tvg-id="" tvg-name="9xM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest/scale-to-width-down/250?cb=20210508163434" group-title="Music",9xM
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/48.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="9xo / 9x-jalwa" tvg-logo="" group-title="Music",9xo / 9x-jalwa
+#EXTINF:-1 tvg-id="" tvg-name="9xo / 9x-jalwa" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2014/03/07/9x_jalwa.jpg?itok=W2zbVbUX" group-title="Music",9x Jalwa
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/98.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="9x jhakaas" tvg-logo="" group-title="Music",9x jhakaas
+#EXTINF:-1 tvg-id="" tvg-name="9x jhakaas" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2014/10/31/jkas.jpg?itok=RozJ4kI3" group-title="Music",9x Jhakaas
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/99.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ATN Music" tvg-logo="" group-title="Music",ATN Music
+#EXTINF:-1 tvg-id="" tvg-name="ATN Music" tvg-logo="http://cdn.bongobd.com/upload/channels/landscape/H86bSTqPN6O.png" group-title="Music",ATN Music
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/82.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dhoom Music" tvg-logo="http://roarmediazone.com/tv/weblogo/56.jpg" group-title="Music",Dhoom Music
+#EXTINF:-1 tvg-id="" tvg-name="Dhoom Music" tvg-logo="http://cdn.bongobd.com/upload/channels/landscape/V6mD2QiByZs.png" group-title="Music",Dhoom Music
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/57.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gaan Bangla" tvg-logo="http://roarmediazone.com/tv/weblogo/86.jpg" group-title="Music",Gaan Bangla
+#EXTINF:-1 tvg-id="" tvg-name="Gaan Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg" group-title="Music",Gaan Bangla
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/58.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sangeet bangla" tvg-logo="http://hitectv.live/anytv/sangeetbangla.png" group-title="Music",Sangeet bangla
+#EXTINF:-1 tvg-id="" tvg-name="Sangeet bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Sangeet_Bangla_2021.jpg/revision/latest/scale-to-width-down/250?cb=20210825054606" group-title="Music",Sangeet bangla
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/96.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony MIX" tvg-logo="http://roarmediazone.com/tv/weblogo/18.jpg" group-title="Music",Sony MIX
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/47.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee ETC" tvg-logo="http://roarmediazone.com/tv/weblogo/01.jpg" group-title="Music",Zee ETC
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/46.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZING" tvg-logo="" group-title="Music",ZING
+#EXTINF:-1 tvg-id="" tvg-name="ZING" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Zing_2011_logo.png/1200px-Zing_2011_logo.png" group-title="Music",Zing
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/93.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zoom" tvg-logo="http://roarmediazone.com/tv/weblogo/03.jpg" group-title="Music",Zoom
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/60.m3u8
