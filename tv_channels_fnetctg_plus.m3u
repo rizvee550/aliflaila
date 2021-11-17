@@ -171,7 +171,7 @@ Documentary
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery HD" tvg-logo="https://w7.pngwing.com/pngs/934/382/png-transparent-logo-discovery-channel-brazil-discovery-inc-animal-planet-design-text-logo-brazil.png" group-title="Documentary",Discovery
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/43.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Natgeo" tvg-logo="http://roarmediazone.com/tv/weblogo/83.jpg" group-title="Documentary",National Geographic
+#EXTINF:-1 tvg-id="" tvg-name="Natgeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/2560px-National_Geographic_Channel.svg.png" group-title="Documentary",National Geographic
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/35.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" group-title="Documentary",Sony BBC Earth HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/44.m3u8
@@ -184,9 +184,9 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/73.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/23.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="Sports",Sky Sports Cricket
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/71.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports MIX" tvg-logo="" group-title="Sports",Sky Sports MIX
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports MIX" tvg-logo="https://archive.org/download/SkySportsMixNew_201708/sky%20sports%20mix%20new.png" group-title="Sports",Sky Sports MIX
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/72.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony SIX" tvg-logo="https://toppng.com//public/uploads/preview/sony-six-hd-sony-ten-1-logo-11563171250vpgsq2y04z.png" group-title="Sports",Sony SIX HD
+#EXTINF:-1 tvg-id="" tvg-name="Sony SIX" tvg-logo="https://toppng.com/public/uploads/thumbnail/sony-six-hd-sony-ten-1-logo-11563171250vmsgp6fki8.png" group-title="Sports",Sony SIX HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest/scale-to-width-down/220?cb=20190322143617" group-title="Sports",Sony Ten 1 HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/20.m3u8
@@ -204,7 +204,7 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/27.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/28.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="T Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/102.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WilloW" tvg-logo="https://w7.pngwing.com/pngs/778/496/png-transparent-willow-television-channel-cricket-streaming-media-cricket-television-sport-sports.png" group-title="Sports",Willow HD
+#EXTINF:-1 tvg-id="" tvg-name="WilloW" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2019/06/Willow.png" group-title="Sports",Willow HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/70.m3u8
 
 Kids
