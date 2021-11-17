@@ -45,6 +45,8 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/61.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/53.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="https://i.imgur.com/o90Y1Me.png" group-title="Bangla",BTV World
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/84.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sangsad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangla",Sangsad TV
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/88.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel 9" tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Bangla",Channel 9
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel I" tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla",Channel I HD
@@ -55,7 +57,7 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/8.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ekushy TV" tvg-logo="http://www.chonnochara.com/wp-content/uploads/2017/05/ekushey-tv.jpg" group-title="Bangla",ETV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/65.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="https://i2.wp.com/pakistandth.com/wp-content/uploads/2019/07/Gazi-TV-Frequency.jpg" group-title="Bangla",Gazi TV HD
+#EXTINF:-1 tvg-id="" tvg-name="http://gazitv.com/wp-content/uploads/2021/04/logo1-1.png" group-title="Bangla",Gazi TV HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Maasranga" tvg-logo="https://3.bp.blogspot.com/-y1O6rQ-htg8/U2zYJCeve-I/AAAAAAAAAK0/Ae8lqaDE7S0/s1600/Maasranga+Tv+Update+New+Biss+key++Code+On+Apsa+7E.png" group-title="Bangla",Maasranga HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/51.m3u8
@@ -73,8 +75,6 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/86.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/14.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ruposhi Bangla" tvg-logo="https://img.favpng.com/0/6/20/television-channel-kolkata-ruposhi-bangla-bengali-language-png-favpng-aCWgFbBKq3uzRAA92DPwHjtvw.jpg" group-title="Bangla",Ruposhi Bangla
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/95.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sangsad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangla",Sangsad TV
-http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/88.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SA TV" tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="Bangla",SA TV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/15.m3u8
 
@@ -100,7 +100,7 @@ Hindi
 
 #EXTINF:-1 tvg-id="" tvg-name="And Pictures" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/andpictures-hd.jpg" group-title="Hindi",& Pictures HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/100.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="And TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/%26xplor_HD.svg/revision/latest?cb=20200430142333" group-title="Hindi",& Xplor HD
+#EXTINF:-1 tvg-id="" tvg-name="And TV HD" tvg-logo="https://www.exchange4media.com/news-photo/98204-xplore.jpg" group-title="Hindi",& Xplor HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/74.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hindi",Colors HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/68.m3u8
@@ -131,7 +131,7 @@ English
 
 #EXTINF:-1 tvg-id="" tvg-name="And Flix" tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/&flix-hd.gif" group-title="English",& Flix HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/78.m3u8
-#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" tvg-logo="http://roarmediazone.com/tv/weblogo/116.jpg" group-title="English",HBO
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="English",HBO
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/42.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mnx" tvg-logo="https://media.elcinema.com/tvguide/1209_1.png" group-title="English",OSN Movies
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/39.m3u8
@@ -169,7 +169,7 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/60.m3u8
 
 Documentary
 
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery HD" tvg-logo="https://w7.pngwing.com/pngs/934/382/png-transparent-logo-discovery-channel-brazil-discovery-inc-animal-planet-design-text-logo-brazil.png" group-title="Documentary",Discovery
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png" group-title="Documentary",Discovery
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/43.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Natgeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/2560px-National_Geographic_Channel.svg.png" group-title="Documentary",National Geographic
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/35.m3u8
