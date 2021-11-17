@@ -100,7 +100,7 @@ Hindi
 
 #EXTINF:-1 tvg-id="" tvg-name="And Pictures" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/andpictures-hd.jpg" group-title="Hindi",& Pictures HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/100.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="And TV HD" tvg-logo="http://roarmediazone.com/tv/weblogo/44.jpg" group-title="Hindi",& TV HD
+#EXTINF:-1 tvg-id="" tvg-name="And TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/%26xplor_HD.svg/revision/latest?cb=20200430142333" group-title="Hindi",& Xplor HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/74.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hindi",Colors HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/68.m3u8
@@ -112,7 +112,7 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/77.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/36.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SONY SET MAX" tvg-logo="http://roarmediazone.com/tv/weblogo/29.jpg" group-title="Hindi",SONY SET MAX
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/37.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" group-title="Hindi",Sony TV HD
+#EXTINF:-1 tvg-id="" tvg-name="Sony TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" group-title="Hindi",Sony HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/38.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Gold" tvg-logo="http://roarmediazone.com/tv/weblogo/73.jpg" group-title="Hindi",Star Gold
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/75.m3u8
@@ -129,17 +129,17 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/40.m3u8
 
 English
 
-#EXTINF:-1 tvg-id="" tvg-name="And Flix" tvg-logo="http://roarmediazone.com/tv/weblogo/48.jpg" group-title="English",And Flix
+#EXTINF:-1 tvg-id="" tvg-name="And Flix" tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/&flix-hd.gif" group-title="English",& Flix HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/78.m3u8
 #EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" tvg-logo="http://roarmediazone.com/tv/weblogo/116.jpg" group-title="English",HBO
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/42.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mnx" tvg-logo="http://roarmediazone.com/tv/weblogo/20.jpg" group-title="English",Mnx
+#EXTINF:-1 tvg-id="" tvg-name="Mnx" tvg-logo="https://media.elcinema.com/tvguide/1209_1.png" group-title="English",OSN Movies
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/39.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movies Now" tvg-logo="http://roarmediazone.com/tv/weblogo/74.jpg" group-title="English",Movies Now
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/45.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Pix" tvg-logo="http://roarmediazone.com/tv/weblogo/17.jpg" group-title="English",Sony Pix
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pix" tvg-logo="https://www.pay2easy.com/uploads/7923-Sony%20Pix.png" group-title="English",Sony Pix HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/41.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe HD" tvg-logo="http://roarmediazone.com/tv/weblogo/05.jpg" group-title="English",Zee Cafe HD
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe HD" tvg-logo="https://p.kindpng.com/picc/s/732-7327906_zee-cafe-logo-png-transparent-png.png" group-title="English",Zee Cafe HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/69.m3u8
 
 Music
