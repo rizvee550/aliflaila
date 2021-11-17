@@ -81,9 +81,9 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/15.m3u8
 
 Indian Bangla
 
-#EXTINF:-1 tvg-id="" tvg-name="Akaash Aath" tvg-logo="https://hindusthan.org/wp-content/uploads/2019/12/36_HP_Aakash-Aath.png" group-title="Indian Bangla",Akaash Aath
+#EXTINF:-1 tvg-id="" tvg-name="Akaash Aath" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Aakashaath_white.png/revision/latest/scale-to-width-down/300?cb=20210509111448" group-title="Indian Bangla",Akaash Aath
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/32.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla",Colors Bangla
+#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla",Colors Bangla HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/66.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1742px-Sony_Aath_logo.svg.png" group-title="Indian Bangla",Sony Aath
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/33.m3u8
@@ -91,9 +91,9 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/33.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/30.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha Movies" tvg-logo="http://roarmediazone.com/tv/weblogo/125.jpg" group-title="Indian Bangla",Star Jalsha Movies
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/31.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="http://roarmediazone.com/tv/weblogo/72.jpg" group-title="Indian Bangla",Zee Bangla
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_770/PORTRAIT/USKY2MD6.png?o=production" group-title="Indian Bangla",Zee Bangla HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/34.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZEE Bangla Cinema" tvg-logo="http://roarmediazone.com/tv/weblogo/72.jpg" group-title="Indian Bangla",ZEE Bangla Cinema
+#EXTINF:-1 tvg-id="" tvg-name="ZEE Bangla Cinema" tvg-logo="https://mpng.subpng.com/20190112/iiu/kisspng-zee-bangla-cinema-logo-zee-cinema-bengali-language-5c3a11e38637c1.7959353315473095395498.jpg" group-title="Indian Bangla",ZEE Bangla Cinema
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/29.m3u8
 
 Hindi
