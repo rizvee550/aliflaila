@@ -20,6 +20,8 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/18.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/17.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Jazeera" tvg-logo="https://i.pinimg.com/originals/11/6e/d8/116ed80f298c8ee40551e9291a2273f6.png" group-title="News",AL Jazeera
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/89.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bbc-world-news-logo-png-transparent.png" group-title="News",Sony BBC Earth HD
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/44.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DW NEWS" tvg-logo="https://www.fluentu.com/blog/german/wp-content/uploads/sites/5/2015/09/german-talk-radio1.png" group-title="News",DW NEWS
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/85.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PTV WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/PTV_World_logo.png" group-title="News",PTV WORLD
@@ -79,7 +81,6 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/14.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/15.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bangla Talkies" tvg-logo="" group-title="Bangla",Bangla Talkies
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/91.m3u8
-
 
 Indian Bangla
 
@@ -180,21 +181,18 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 
 Documentary
 
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png" group-title="Documentary",Discovery
-http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/43.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Natgeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/2560px-National_Geographic_Channel.svg.png" group-title="Documentary",National Geographic
-http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/35.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" group-title="News",Sony BBC Earth HD
-http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/44.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary",*Animal Planet HD
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png" group-title="Documentary",Discovery
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/43.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="Documentary",*Discovery Science English
 https://feed.play.mv/live/1009/TRKXs71yTR/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="Documentary",*Discovery Turbo
 https://feed.play.mv/live/1009/1UjOk2jBiR/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Documentary",*History Channel
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Natgeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/2560px-National_Geographic_Channel.svg.png" group-title="Documentary",National Geographic
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/35.m3u8
 
 Sports
 
