@@ -49,6 +49,8 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/84.m3u8
 http://103.106.2.149:13456/btv_world.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sangsad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangla",Sangsad TV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/88.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="Bangla",*Sangsad TV
+https://tempe.jagobd.com:445/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel 9" tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Bangla",Channel 9
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel I" tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla",Channel I HD
@@ -57,12 +59,14 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/6.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Desh TV" tvg-logo="http://tv.bdtype.com/uploads/tv_image/desh-tv.png" group-title="Bangla",Desh TV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/9.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Bangla",*Desh TV
-https://last.gcdn.co/IND443/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Bangla",*Bijoy TV
+https://rhridoy136.shortcm.li/bijoytv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ekushy TV" tvg-logo="http://www.chonnochara.com/wp-content/uploads/2017/05/ekushey-tv.jpg" group-title="Bangla",ETV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/65.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="http://gazitv.com/wp-content/uploads/2021/04/logo1-1.png" group-title="Bangla",Gazi TV HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",*GAZI TV
+http://103.78.255.178:8080/gtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Maasranga" tvg-logo="https://3.bp.blogspot.com/-y1O6rQ-htg8/U2zYJCeve-I/AAAAAAAAAK0/Ae8lqaDE7S0/s1600/Maasranga+Tv+Update+New+Biss+key++Code+On+Apsa+7E.png" group-title="Bangla",Maasranga HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/51.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mohona TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Mohona_Logo.JPG" group-title="Bangla",Mohona TV HD
@@ -100,8 +104,7 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/31.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/34.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE Bangla Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" group-title="Indian Bangla",ZEE Bangla Cinema
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/29.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla",*Sun Bangla
-https://last.gcdn.co/IND394/index.m3u8
+
 
 Hindi
 
@@ -133,6 +136,8 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/90.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/76.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE TV" tvg-logo="https://i.pinimg.com/originals/92/bd/47/92bd47df60919c932ddd2dd46a825d52.png" group-title="Hindi",ZEE TV HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/40.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi",*Star Bharat
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR2Xg8-2MnqWaWVHeT0o17c/m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi",*UTV Action
 https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
 
@@ -176,13 +181,11 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/46.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/93.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zoom" tvg-logo="http://roarmediazone.com/tv/weblogo/03.jpg" group-title="Music",Zoom
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/60.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="Music",*Masti
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+
 
 Documentary
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary",*Animal Planet HD
-http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png" group-title="Documentary",Discovery
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/43.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="Documentary",*Discovery Science English
@@ -193,6 +196,8 @@ https://feed.play.mv/live/1009/1UjOk2jBiR/master.m3u8
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Natgeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/2560px-National_Geographic_Channel.svg.png" group-title="Documentary",National Geographic
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/35.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary",*National Geographic HD Hindi
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23658.m3u8
 
 Sports
 
