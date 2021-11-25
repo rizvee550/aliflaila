@@ -49,8 +49,8 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/84.m3u8
 http://103.106.2.149:13456/btv_world.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sangsad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangla",Sangsad TV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/88.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="Bangla",*Sangsad TV
-https://tempe.jagobd.com:445/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Bangla",*Bijoy TV
+https://rhridoy136.shortcm.li/bijoytv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel 9" tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Bangla",Channel 9
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel I" tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla",Channel I HD
@@ -59,8 +59,6 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/6.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Desh TV" tvg-logo="http://tv.bdtype.com/uploads/tv_image/desh-tv.png" group-title="Bangla",Desh TV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/9.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Bangla",*Bijoy TV
-https://rhridoy136.shortcm.li/bijoytv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ekushy TV" tvg-logo="http://www.chonnochara.com/wp-content/uploads/2017/05/ekushey-tv.jpg" group-title="Bangla",ETV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/65.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="http://gazitv.com/wp-content/uploads/2021/04/logo1-1.png" group-title="Bangla",Gazi TV HD
@@ -138,8 +136,7 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/76.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/40.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi",*Star Bharat
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR2Xg8-2MnqWaWVHeT0o17c/m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi",*UTV Action
-https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
+
 
 English
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English",*AXN
