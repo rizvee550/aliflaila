@@ -26,6 +26,8 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/44.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/85.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PTV WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/PTV_World_logo.png" group-title="News",PTV WORLD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/92.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNA HD" tvg-logo="https://i.imgur.com/e3cYtrb.jpg" group-title="News",*CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?@amarnettv.live
 
 Bangla
 
@@ -102,6 +104,8 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/31.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/34.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE Bangla Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" group-title="Indian Bangla",ZEE Bangla Cinema
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/29.m3u8
+#EXTINF:0 tvg-language="" tvg-logo="" group-title="Indian Bangla",*R Plus Gold
+http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
 
 
 Hindi
@@ -159,6 +163,8 @@ Music
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/48.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9xo / 9x-jalwa" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2014/03/07/9x_jalwa.jpg?itok=W2zbVbUX" group-title="Music",9x Jalwa
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/98.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9x Jalwa" tvg-logo="https://i.imgur.com/E4NcxwB.jpg" group-title="Music",*9x Jalwa
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9x jhakaas" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2014/10/31/jkas.jpg?itok=RozJ4kI3" group-title="Music",9x Jhakaas
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/99.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATN Music" tvg-logo="http://cdn.bongobd.com/upload/channels/landscape/H86bSTqPN6O.png" group-title="Music",ATN Music
@@ -177,6 +183,8 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/46.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/93.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zoom" tvg-logo="http://roarmediazone.com/tv/weblogo/03.jpg" group-title="Music",Zoom
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/60.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sangeet bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Sangeet_Bangla_2021.jpg/revision/latest/scale-to-width-down/250?cb=20210825054606" group-title="Music",*Sangeet bangla
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 
 
 Documentary
@@ -184,12 +192,9 @@ Documentary
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png" group-title="Documentary",Discovery
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/43.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Documentary",*History Channel
-https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Natgeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/2560px-National_Geographic_Channel.svg.png" group-title="Documentary",National Geographic
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/35.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary",*National Geographic HD Hindi
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23658.m3u8
+
 
 Sports
 
@@ -230,6 +235,8 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/79.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="Kids",Nick
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/55.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://www.pngkey.com/png/full/228-2288767_play-video-cartoon-network-png-logo.png" group-title="Kids",*Cartoon Network
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 
 Religious
 
