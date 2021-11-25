@@ -139,8 +139,7 @@ http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR2Xg8-2MnqWaWVHeT0o17c/m3u8
 
 
 English
-#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English",*AXN
-http://93.190.139.35:8278/streams/d/Axn/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="And Flix" tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/&flix-hd.gif" group-title="English",& Flix HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/78.m3u8
 #EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="English",HBO
@@ -185,10 +184,6 @@ Documentary
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png" group-title="Documentary",Discovery
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/43.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="Documentary",*Discovery Science English
-https://feed.play.mv/live/1009/TRKXs71yTR/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="Documentary",*Discovery Turbo
-https://feed.play.mv/live/1009/1UjOk2jBiR/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Documentary",*History Channel
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Natgeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/2560px-National_Geographic_Channel.svg.png" group-title="Documentary",National Geographic
