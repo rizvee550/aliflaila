@@ -45,6 +45,10 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/3.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/61.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/220px-Bangladesh_Television_Logo.svg.png" group-title="Bangla",BTV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/53.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla",*Bangladesh Television
+http://103.106.2.149:13456/btv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="Bangla",*Bangladesh Television CTG
+http://103.106.2.149:13456/btv_ctg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="https://i.imgur.com/o90Y1Me.png" group-title="Bangla",BTV World
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/84.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="Bangla",*BTV World
@@ -104,8 +108,7 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/31.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/34.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE Bangla Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" group-title="Indian Bangla",ZEE Bangla Cinema
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/29.m3u8
-#EXTINF:0 tvg-language="" tvg-logo="" group-title="Indian Bangla",*R Plus Gold
-http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
+
 
 
 Hindi
@@ -124,6 +127,8 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/77.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/36.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SONY SET MAX" tvg-logo="http://roarmediazone.com/tv/weblogo/29.jpg" group-title="Hindi",SONY SET MAX
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/37.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",*Sony Entertainment HD
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" group-title="Hindi",Sony HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/38.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Gold" tvg-logo="http://roarmediazone.com/tv/weblogo/73.jpg" group-title="Hindi",Star Gold
@@ -138,8 +143,9 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/90.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/76.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE TV" tvg-logo="https://i.pinimg.com/originals/92/bd/47/92bd47df60919c932ddd2dd46a825d52.png" group-title="Hindi",ZEE TV HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/40.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi",*Star Bharat
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR2Xg8-2MnqWaWVHeT0o17c/m3u8
+#EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="Hindi",*WoW Cinema
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
+
 
 
 English
@@ -175,6 +181,8 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/57.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/58.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sangeet bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Sangeet_Bangla_2021.jpg/revision/latest/scale-to-width-down/250?cb=20210825054606" group-title="Music",Sangeet bangla
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/96.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sangeet bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Sangeet_Bangla_2021.jpg/revision/latest/scale-to-width-down/250?cb=20210825054606" group-title="Music",*Sangeet bangla
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony MIX" tvg-logo="http://roarmediazone.com/tv/weblogo/18.jpg" group-title="Music",Sony MIX
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/47.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee ETC" tvg-logo="http://roarmediazone.com/tv/weblogo/01.jpg" group-title="Music",Zee ETC
@@ -183,8 +191,10 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/46.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/93.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zoom" tvg-logo="http://roarmediazone.com/tv/weblogo/03.jpg" group-title="Music",Zoom
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/60.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sangeet bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Sangeet_Bangla_2021.jpg/revision/latest/scale-to-width-down/250?cb=20210825054606" group-title="Music",*Sangeet bangla
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.aliflailabd.com/assets/images/b4u-music.jpg"group-title="MUSIC",*B4U Music
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
+
 
 
 Documentary
@@ -194,6 +204,8 @@ Documentary
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/43.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Natgeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/2560px-National_Geographic_Channel.svg.png" group-title="Documentary",National Geographic
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/35.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Documentary",*Travel XP HD
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 Sports
