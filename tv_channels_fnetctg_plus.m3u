@@ -45,16 +45,12 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/3.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/61.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/220px-Bangladesh_Television_Logo.svg.png" group-title="Bangla",BTV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/53.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla",*Bangladesh Television
+#EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla",*BTV
 http://103.106.2.149:13456/btv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="Bangla",*Bangladesh Television CTG
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="Bangla",*BTV CTG
 http://103.106.2.149:13456/btv_ctg.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="https://i.imgur.com/o90Y1Me.png" group-title="Bangla",BTV World
-http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/84.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="Bangla",*BTV World
 http://103.106.2.149:13456/btv_world.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sangsad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangla",Sangsad TV
-http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/88.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Bangla",*Bijoy TV
 https://rhridoy136.shortcm.li/bijoytv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel 9" tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Bangla",Channel 9
@@ -87,8 +83,7 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/86.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/14.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SA TV" tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="Bangla",SA TV
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bangla Talkies" tvg-logo="" group-title="Bangla",Bangla Talkies
-http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/91.m3u8
+
 
 Indian Bangla
 
@@ -125,14 +120,11 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/97.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/77.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony SAB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/SonySABlogo.png" group-title="Hindi",Sony SAB HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/36.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY SET MAX" tvg-logo="http://roarmediazone.com/tv/weblogo/29.jpg" group-title="Hindi",SONY SET MAX
-http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/37.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" group-title="Hindi",Sony Entertainment
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/38.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",*Sony Entertainment HD
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" group-title="Hindi",Sony HD
-http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/38.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Gold" tvg-logo="http://roarmediazone.com/tv/weblogo/73.jpg" group-title="Hindi",Star Gold
-http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/75.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Star Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/StarPlus_logo_%282018%29.png/revision/latest/scale-to-width-down/220?cb=20201128160713" group-title="Hindi",Star Plus HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/67.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE Bollywood" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Zee_bollywood_21AUg2018.jpg/revision/latest?cb=20191214174432" group-title="Hindi",ZEE Bollywood
@@ -141,6 +133,8 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/94.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/90.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cinema" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-cinema-hd-logo-300x300.jpg" group-title="Hindi",Zee Cinema HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/76.m3u8
+#EXTINF:-1 tvg-id="ZeeClassic.in" tvg-name="Zee Classic" tvg-country="IN" tvg-language="" tvg-logo="" group-title="Hindi",Zee Classic
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/46.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE TV" tvg-logo="https://i.pinimg.com/originals/92/bd/47/92bd47df60919c932ddd2dd46a825d52.png" group-title="Hindi",ZEE TV HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/40.m3u8
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="Hindi",*WoW Cinema
@@ -175,24 +169,15 @@ https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/99.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATN Music" tvg-logo="http://cdn.bongobd.com/upload/channels/landscape/H86bSTqPN6O.png" group-title="Music",ATN Music
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/82.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dhoom Music" tvg-logo="http://cdn.bongobd.com/upload/channels/landscape/V6mD2QiByZs.png" group-title="Music",Dhoom Music
-http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/57.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gaan Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg" group-title="Music",Gaan Bangla
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/58.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sangeet bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Sangeet_Bangla_2021.jpg/revision/latest/scale-to-width-down/250?cb=20210825054606" group-title="Music",Sangeet bangla
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/96.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sangeet bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Sangeet_Bangla_2021.jpg/revision/latest/scale-to-width-down/250?cb=20210825054606" group-title="Music",*Sangeet bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony MIX" tvg-logo="http://roarmediazone.com/tv/weblogo/18.jpg" group-title="Music",Sony MIX
-http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/47.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee ETC" tvg-logo="http://roarmediazone.com/tv/weblogo/01.jpg" group-title="Music",Zee ETC
-http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/46.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZING" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Zing_2011_logo.png/1200px-Zing_2011_logo.png" group-title="Music",Zing
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/93.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zoom" tvg-logo="http://roarmediazone.com/tv/weblogo/03.jpg" group-title="Music",Zoom
-http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/60.m3u8
-
-#EXTINF:-1 tvg-logo="http://tv.aliflailabd.com/assets/images/b4u-music.jpg"group-title="MUSIC",*B4U Music
+#EXTINF:-1 tvg-logo="http://tv.aliflailabd.com/assets/images/b4u-music.jpg"group-title="Music",*B4U Music
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 
 
@@ -267,3 +252,19 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/172.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/173.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="test3" tvg-logo="" group-title="Test",test3
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="https://i.imgur.com/o90Y1Me.png" group-title="Test",BTV World
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/84.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sangsad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Test",Sangsad TV
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/88.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bangla Talkies" tvg-logo="" group-title="Test",Bangla Talkies
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/91.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY SET MAX" tvg-logo="http://roarmediazone.com/tv/weblogo/29.jpg" group-title="Test",SONY SET MAX
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/37.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold" tvg-logo="http://roarmediazone.com/tv/weblogo/73.jpg" group-title="Test",Star Gold
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/75.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dhoom Music" tvg-logo="http://cdn.bongobd.com/upload/channels/landscape/V6mD2QiByZs.png" group-title="Test",Dhoom Music
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/57.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony MIX" tvg-logo="http://roarmediazone.com/tv/weblogo/18.jpg" group-title="Test",Sony MIX
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/47.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zoom" tvg-logo="http://roarmediazone.com/tv/weblogo/03.jpg" group-title="Test",Zoom
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/60.m3u8
