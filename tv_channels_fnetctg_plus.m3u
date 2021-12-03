@@ -65,8 +65,6 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/9.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/65.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="http://gazitv.com/wp-content/uploads/2021/04/logo1-1.png" group-title="Bangla",Gazi TV HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",*GAZI TV
-http://103.78.255.178:8080/gtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Maasranga" tvg-logo="https://3.bp.blogspot.com/-y1O6rQ-htg8/U2zYJCeve-I/AAAAAAAAAK0/Ae8lqaDE7S0/s1600/Maasranga+Tv+Update+New+Biss+key++Code+On+Apsa+7E.png" group-title="Bangla",Maasranga HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/51.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mohona TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Mohona_Logo.JPG" group-title="Bangla",Mohona TV HD
@@ -124,7 +122,8 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/36.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/38.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",*Sony Entertainment HD
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold" tvg-logo="http://roarmediazone.com/tv/weblogo/73.jpg" group-title="Hindi",Star Gold
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/75.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/StarPlus_logo_%282018%29.png/revision/latest/scale-to-width-down/220?cb=20201128160713" group-title="Hindi",Star Plus HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/67.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE Bollywood" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Zee_bollywood_21AUg2018.jpg/revision/latest?cb=20191214174432" group-title="Hindi",ZEE Bollywood
@@ -232,8 +231,9 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/79.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="Kids",Nick
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/55.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://www.pngkey.com/png/full/228-2288767_play-video-cartoon-network-png-logo.png" group-title="Kids",*Cartoon Network
-https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="*Kids", Nick Junior Hindi
+http://103.153.39.34:8000/play/a04r/index.m3u8
+
 
 Religious
 
@@ -244,27 +244,3 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/63.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Makkah Live" tvg-logo="" group-title="Religious",Makkah Live
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/83.m3u8
 
-Test
-
-#EXTINF:-1 tvg-id="" tvg-name="bioscop" tvg-logo="" group-title="Test",bioscop
-http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/172.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="test1" tvg-logo="" group-title="Test",test1
-http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/173.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="test3" tvg-logo="" group-title="Test",test3
-http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/174.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="https://i.imgur.com/o90Y1Me.png" group-title="Test",BTV World
-http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/84.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sangsad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Test",Sangsad TV
-http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/88.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bangla Talkies" tvg-logo="" group-title="Test",Bangla Talkies
-http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/91.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY SET MAX" tvg-logo="http://roarmediazone.com/tv/weblogo/29.jpg" group-title="Test",SONY SET MAX
-http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/37.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Gold" tvg-logo="http://roarmediazone.com/tv/weblogo/73.jpg" group-title="Test",Star Gold
-http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/75.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dhoom Music" tvg-logo="http://cdn.bongobd.com/upload/channels/landscape/V6mD2QiByZs.png" group-title="Test",Dhoom Music
-http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/57.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony MIX" tvg-logo="http://roarmediazone.com/tv/weblogo/18.jpg" group-title="Test",Sony MIX
-http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/47.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zoom" tvg-logo="http://roarmediazone.com/tv/weblogo/03.jpg" group-title="Test",Zoom
-http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/60.m3u8
