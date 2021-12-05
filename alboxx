@@ -228,3 +228,38 @@ Religious
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R9FLtGM/BTV-Live-removebg-preview.png" group-title="Religious",ATN Islamic
 http://babutv.aliflailabd.com:8989/atnislamictv/index.m3u8
+
+
+Test
+
+#EXTINF:-1 tvg-id="" tvg-name="bioscop" tvg-logo="" group-title="Test",bioscop
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/172.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="test1" tvg-logo="" group-title="Test",test1
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="test3" tvg-logo="" group-title="Test",test3
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="https://i.imgur.com/o90Y1Me.png" group-title="Test",BTV World
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/84.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sangsad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Test",Sangsad TV
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/88.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bangla Talkies" tvg-logo="" group-title="Test",Bangla Talkies
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/91.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY SET MAX" tvg-logo="http://roarmediazone.com/tv/weblogo/29.jpg" group-title="Test",SONY SET MAX
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/37.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dhoom Music" tvg-logo="http://cdn.bongobd.com/upload/channels/landscape/V6mD2QiByZs.png" group-title="Test",Dhoom Music
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/57.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony MIX" tvg-logo="http://roarmediazone.com/tv/weblogo/18.jpg" group-title="Test",Sony MIX
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/47.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zoom" tvg-logo="http://roarmediazone.com/tv/weblogo/03.jpg" group-title="Test",Zoom
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/60.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ptv Sports" tvg-logo="http://roarmediazone.com/tv/weblogo/92.jpg" group-title="Test",Ptv Sports
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/73.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Dawah" tvg-logo="" group-title="Test",Al Dawah
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/87.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Makkah Live" tvg-logo="" group-title="Test",Makkah Live
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/83.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ruposhi Bangla" tvg-logo="https://img.favpng.com/0/6/20/television-channel-kolkata-ruposhi-bangla-bengali-language-png-favpng-aCWgFbBKq3uzRAA92DPwHjtvw.jpg" group-title="Test",Ruposhi Bangla
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/95.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="Test",Sky Sports Cricket
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/71.m3u8
+[
