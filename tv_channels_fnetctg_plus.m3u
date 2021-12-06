@@ -24,8 +24,6 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/89.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/44.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DW NEWS" tvg-logo="https://www.fluentu.com/blog/german/wp-content/uploads/sites/5/2015/09/german-talk-radio1.png" group-title="News",DW NEWS
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/85.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PTV WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/PTV_World_logo.png" group-title="News",PTV WORLD
-http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/92.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNA HD" tvg-logo="https://i.imgur.com/e3cYtrb.jpg" group-title="News",*CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?@amarnettv.live
 
@@ -142,6 +140,13 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/40.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
 
 
+PAKISTAN
+
+
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/YKiV4yR.png" group-title="Pakistan",*PTV Home
+https://live.ptv.com.pk/live/stream/ptvhome/playlist.m3u8?checkedby:iptvcat.com
+
+
 
 English
 
@@ -235,5 +240,9 @@ Religious
 
 #EXTINF:-1 tvg-id="" tvg-name="ATN Islamic" tvg-logo="https://www.mawbiz.com.bd/application/views/module/logo_image/ATN_Islamic_TV.png" group-title="Religious",ATN Islamic
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/63.m3u8
+#EXTINF:-1 tvg-id="IqraBangla.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/GK5BlnN.jpg" group-title="Religious",*Iqra Bangla
+https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="https://abbasrizvidev.github.io/LitreallyDataRepository/Images/wintv.png" group-title="Religious",*Channel WIN
+http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/chunklist_w1848970713.m3u8
 
 
