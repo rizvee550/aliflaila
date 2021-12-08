@@ -24,6 +24,8 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/89.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/44.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DW NEWS" tvg-logo="https://www.fluentu.com/blog/german/wp-content/uploads/sites/5/2015/09/german-talk-radio1.png" group-title="News",DW NEWS
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/85.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jy3Vr9F.png" group-title="News",*CNN HD
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNA HD" tvg-logo="https://i.imgur.com/e3cYtrb.jpg" group-title="News",*CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?@amarnettv.live
 
@@ -145,6 +147,10 @@ PAKISTAN
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/YKiV4yR.png" group-title="Pakistan",*PTV Home
 https://live.ptv.com.pk/live/stream/ptvhome/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/nKIlaRg.png" group-title="Pakistan",*PTV World
+https://live.ptv.com.pk/live/ptvworld/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="Geo Super" tvg-logo="" group-title="Pakistan",*Geo Super
+http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8?token=rk%F0%9F%8F%8F
 
 
 
@@ -173,6 +179,8 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/98.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/99.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATN Music" tvg-logo="http://cdn.bongobd.com/upload/channels/landscape/H86bSTqPN6O.png" group-title="Music",ATN Music
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/82.m3u8
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg?x91288" group-title="Music",*RTV Music
+http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gaan Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg" group-title="Music",Gaan Bangla
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/58.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sangeet bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Sangeet_Bangla_2021.jpg/revision/latest/scale-to-width-down/250?cb=20210825054606" group-title="Music",Sangeet bangla
@@ -181,6 +189,10 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/96.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/93.m3u8
 #EXTINF:-1 tvg-logo="http://tv.aliflailabd.com/assets/images/b4u-music.jpg"group-title="Music",*B4U Music
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
+#EXTINF:-1 tvg-name="Wow Music" tvg-logo="" group-title="Music",*Wow Music
+https://ilove.livebox.co.in/wowinhls/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",*Dil Se
+https://live.hungama.com/linear/dil-se/playlist.m3u8?token=soheliptv01826655778
 
 
 
@@ -191,6 +203,8 @@ Documentary
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/43.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Natgeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/2560px-National_Geographic_Channel.svg.png" group-title="Documentary",National Geographic
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/35.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documentary",*Nat Geo Dubai
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
 
 
