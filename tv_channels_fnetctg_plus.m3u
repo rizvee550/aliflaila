@@ -49,8 +49,8 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/53.m3u8
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="Bangla",*BTV CTG
 http://103.106.2.149:13456/btv_ctg.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sanshad tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg " group-title="Bangla",*BTV Sanshad TV
-http://103.106.2.149:13456/sangsad.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sangsad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangla",Sangsad TV
+http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/88.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Bangla",*Bijoy TV
 https://rhridoy136.shortcm.li/bijoytv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel 9" tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Bangla",Channel 9
@@ -101,6 +101,10 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/34.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/29.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LeIa06D.png" group-title="Indian Bangla",*ABP Ananda
 https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indian Bangla",ABP Ananda
+https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indian Bangla",CTVN Akd Plus
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:ctvn_akd_plus_,b256,b512,b1024,b1824,.smil/chunklist_b512000.m3u8
 
 
 
@@ -140,6 +144,8 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/46.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/40.m3u8
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="Hindi",*WoW Cinema
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.v4stream.com/upload/source/Raise%20tamilhd.png" group-title="Hindi",Rasi Movies
+http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
 
 
 PAKISTAN
@@ -177,6 +183,8 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/48.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/98.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9x jhakaas" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2014/10/31/jkas.jpg?itok=RozJ4kI3" group-title="Music",9x Jhakaas
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/99.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="Music",*9X Jhakaas
+https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATN Music" tvg-logo="http://cdn.bongobd.com/upload/channels/landscape/H86bSTqPN6O.png" group-title="Music",ATN Music
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/82.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg?x91288" group-title="Music",*RTV Music
@@ -254,6 +262,8 @@ Religious
 
 #EXTINF:-1 tvg-id="" tvg-name="ATN Islamic" tvg-logo="https://www.mawbiz.com.bd/application/views/module/logo_image/ATN_Islamic_TV.png" group-title="Religious",ATN Islamic
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/63.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Religious",Madani TV Bangla
+https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 #EXTINF:-1 tvg-id="IqraBangla.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/GK5BlnN.jpg" group-title="Religious",*Iqra Bangla
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="https://abbasrizvidev.github.io/LitreallyDataRepository/Images/wintv.png" group-title="Religious",*Channel WIN
