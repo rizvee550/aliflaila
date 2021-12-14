@@ -181,7 +181,7 @@ Music
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/48.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9xo / 9x-jalwa" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2014/03/07/9x_jalwa.jpg?itok=W2zbVbUX" group-title="Music",9x Jalwa
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/98.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="9x jhakaas" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2014/10/31/jkas.jpg?itok=RozJ4kI3" group-title="Music",9x Jhakaas
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="Music",*9X Jhakaas
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/99.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="Music",*9X Jhakaas
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
