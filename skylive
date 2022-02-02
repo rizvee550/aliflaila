@@ -143,7 +143,7 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/74.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/68.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movie plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Bflix_Movies.jpeg/revision/latest?cb=20191222183430" group-title="Hindi",Bflix Movies
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/97.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/S3lVg3i.jpg?1" group-title="Hindi Movies",*Box Cinema
+#EXTINF:0 tvg-logo="https://i.imgur.com/S3lVg3i.jpg?1" group-title="Hindi",*Box Cinema
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Max" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg/revision/latest/scale-to-width-down/180?cb=20191222183157" group-title="Hindi",Sony Max HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/77.m3u8
@@ -235,8 +235,6 @@ http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/20.m3u8
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/21.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png/revision/latest?cb=20190322144135" group-title="Sports",Sony Ten 3 HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/22.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Special Sports",*Star Sports
-http://172.16.29.28:8080/hls/live1-fnet.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/04/19/starspoerts1.jpg?itok=z6EF5EF7" group-title="Sports",Star Sports 1 HD
 http://tvserver3.roarzone.info:25461/live/fnetctg/roarzone/25.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQww2TW6fPTU9_YHJVWzVJ8AaiGlnaYkWYW8mpYe9aymtTm_UCd1YcUFMtJGlzVbRt7_2w&usqp=CAU" group-title="Sports",Star Sports 2 HD
